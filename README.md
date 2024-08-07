@@ -1,8 +1,6 @@
 # Hi, I'm Lily!
 
-![Profile views](https://komarev.com/ghpvc/?username=username&style=for-the-badge)
-
-I'm a passionate developer interested in open-source projects, web development, and mobile development.
+I'm a full-stack developer interested in open-source projects, web development, and mobile development. 
 
 ## 🛠 Skills
 
@@ -33,5 +31,4 @@ I'm a passionate developer interested in open-source projects, web development, 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lily-lee-803228228/)
